@@ -8,7 +8,7 @@ Contém todos os **recursos** das páginas e dados utilizados durante os testes 
 ### :file_folder: `suites/`
 Contém todos os **casos de testes**, organizados de acordo com as funcionalidades do sistema.
 
-### :file_text: `requirements.txt`
+### :page_facing_up: `requirements.txt`
 Arquivo utilizado para listar todas as **bibliotecas** e dependências necessárias para rodar o projeto. Basta instalar as dependências com o comando:
 
 ### :page_facing_up: `run_robot.bat`
